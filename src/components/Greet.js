@@ -1,4 +1,4 @@
-import React from 'react'
+import React,{ Component} from 'react'
 import { func } from 'prop-types'
 import App from '../App'
 
